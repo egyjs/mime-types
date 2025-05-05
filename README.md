@@ -1,4 +1,3 @@
-
 # 📦 MIME Types Icon CDN – Fast & Easy Access to File Type Icons
 
 [![](https://data.jsdelivr.com/v1/package/gh/egyjs/mime-types/badge)](https://www.jsdelivr.com/package/gh/egyjs/mime-types)
@@ -56,18 +55,30 @@ And here’s how it will appear on your site:
 
 ## 📚 Supported File Extensions
 
-We provide icons for many common file types including but not limited to:
+### ✅ Available Icons
 
-- 📄 Document Files: `.pdf`, `.doc`, `.docx`, `.ppt`, `.xls`, `.txt`
-- 🖼️ Image Files: `.jpg`, `.jpeg`, `.png`, `.svg`, `.gif`
-- 🎵 Audio Files: `.mp3`, `.wav`, `.ogg`
-- 🎥 Video Files: `.mp4`, `.avi`, `.mov`, `.mkv`
-- 📦 Archives: `.zip`, `.rar`, `.7z`, `.tar.gz`
-- 💻 Code Files: `.html`, `.css`, `.js`, `.php`, `.py`, `.java`, `.json`, `.xml`
-- 🔐 Secure Files: `.key`, `.pem`, `.cert`
-- 📜 Text Files: `.log`, `.csv`, `.md`, `.ini`
+**Documents:**  
+`doc`, `docx`, `pdf`, `ppt`, `xls`, `txt`
 
-If your extension isn’t listed, feel free to open an issue or submit a PR.
+**Images:**  
+`jpg`, `png`, `gif`, `svg`, `ai`, `eps`, `psd`
+
+**Audio/Video:**  
+`mp3`, `mp4`
+
+**Code & Markup:**  
+`html`, `css`, `js`, `php`, `sql`, `xml`
+
+**Archives:**  
+`zip`
+
+### ❌ Not Yet Added (Disabled)
+
+These extensions are not yet available, but may be added soon:
+
+`xlsx`, `avi`, `csv`, `json`, `exe`, `apk`, `rar`, `7z`
+
+If you need icons for additional file extensions or want to request one from the disabled list, feel free to contact me or open an issue.
 
 ---
 
@@ -109,12 +120,22 @@ Make sure to name the file with the exact file extension (e.g., `docx.png`, `zip
 
 ---
 
+## 🙏 Acknowledgements
+
+Special thanks to **[Dimitry Miroliubov](https://www.flaticon.com/authors/dimitry-miroliubov)** for the [Files icon pack](https://www.flaticon.com/packs/files-8) used in this project.
+
+---
+
 ## 📞 Contact & Support
 
 If you have questions, suggestions, or need support using this CDN:
 
 - Open an [Issue](https://github.com/egyjs/mime-types/issues)
-- Or contact us directly via GitHub
+- Or contact me directly:
+  - 📧 Email: el3zahaby@gmail.com
+  - 📸 Instagram: [@egyjs](https://instagram.com/egyjs)
+  - 💼 LinkedIn: [Abdulrahman El Zahaby](https://www.linkedin.com/in/abdulrahman-el-zahaby/)
+
 
 ---
 
