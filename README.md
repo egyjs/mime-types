@@ -24,7 +24,7 @@ Whether you're building a **file management system**, a **document viewer**, or 
 To get the icon for a file extension (e.g., `.pdf`, `.docx`, `.jpg`), simply use the following URL format:
 
 ```
-https://cdn.jsdelivr.net/gh/egyjs/mime-types@master/icons/[extension].png
+https://cdn.jsdelivr.net/gh/egyjs/mime-types@v0.0.4/icons/[extension].png
 ```
 
 ### Example: PDF Icon
@@ -32,23 +32,23 @@ https://cdn.jsdelivr.net/gh/egyjs/mime-types@master/icons/[extension].png
 If you want to show an icon for PDF files:
 
 ```
-https://cdn.jsdelivr.net/gh/egyjs/mime-types@master/icons/pdf.png
+https://cdn.jsdelivr.net/gh/egyjs/mime-types@v0.0.4/icons/pdf.png
 ```
 
 And here’s how it will appear on your site:
 
-<img src="https://cdn.jsdelivr.net/gh/egyjs/mime-types@master/icons/pdf.png" width="100" alt="PDF File Icon">
+<img src="https://cdn.jsdelivr.net/gh/egyjs/mime-types@v0.0.4/icons/pdf.png" width="100" alt="PDF File Icon">
 
 ### Example in HTML
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/egyjs/mime-types@master/icons/pdf.png" alt="PDF Icon" width="40">
+<img src="https://cdn.jsdelivr.net/gh/egyjs/mime-types@v0.0.4/icons/pdf.png" alt="PDF Icon" width="40">
 ```
 
 ### Example in Markdown
 
 ```markdown
-![PDF](https://cdn.jsdelivr.net/gh/egyjs/mime-types@master/icons/pdf.png)
+![PDF](https://cdn.jsdelivr.net/gh/egyjs/mime-types@v0.0.4/icons/pdf.png)
 ```
 
 ---
@@ -96,7 +96,7 @@ All icons are hosted on **jsDelivr**, a free and fast open-source CDN optimized 
 For best practices, you can lock the version in the URL to avoid future breaking changes:
 
 ```
-https://cdn.jsdelivr.net/gh/egyjs/mime-types@v1.0.0/icons/pdf.png
+https://cdn.jsdelivr.net/gh/egyjs/mime-types@v0.0.4/icons/pdf.png
 ```
 
 If you always want the latest version, you can use the `@master` tag (though caching may delay updates):
